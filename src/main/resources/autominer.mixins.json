@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "pl.autominer.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["NetworkHandlerMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
